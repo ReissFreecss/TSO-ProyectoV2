@@ -27,11 +27,6 @@ namespace TSO_Proyect
         public Form1()
         {
             InitializeComponent();
-
-            // Configuración del puerto serial para el lector de tarjetas RFID
-            serialPort = new SerialPort("COM3", 9600); // Configura el puerto COM y la velocidad en baudios
-            serialPort.DataReceived += new SerialDataReceivedEventHandler(DataReceivedHandler); // Evento para manejar los datos recibidos
-            serialPort.Open(); // Abre el puerto serial
         }
 
         // Manejador del evento DataReceived del puerto serial
