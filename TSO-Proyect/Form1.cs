@@ -23,6 +23,7 @@ namespace TSO_Proyect
         private SerialPort serialPort; // Referencia para el puerto serial del lector RFID
         private string idTarjeta; // Variable para almacenar la ID de la tarjeta leída
 
+        // Comentario x
         public Form1()
         {
             InitializeComponent();
