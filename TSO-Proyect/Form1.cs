@@ -24,6 +24,7 @@ namespace TSO_Proyect
         private string idTarjeta; // Variable para almacenar la ID de la tarjeta leída
 
         // Comentario x
+        //Prueba a ver si jala
         public Form1()
         {
             InitializeComponent();
