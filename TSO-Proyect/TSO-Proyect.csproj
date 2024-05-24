@@ -72,6 +72,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="InfoA.resx">
+      <DependentUpon>InfoA.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Portada.resx">
       <DependentUpon>Portada.cs</DependentUpon>
     </EmbeddedResource>
@@ -101,6 +104,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Blue Dark Professional Geometric Business Project Presentation  %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carnet de Identificación para Empresa Electrónica Moderno Azul %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

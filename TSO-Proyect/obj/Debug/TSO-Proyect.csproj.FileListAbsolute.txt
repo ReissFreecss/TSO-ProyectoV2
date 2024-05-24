@@ -12,3 +12,4 @@ C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO-Proyect.csp
 C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO-Proy.ACB28BD5.Up2Date
 C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO-Proyect.exe
 C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO-Proyect.pdb
+C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO_Proyect.InfoA.resources
