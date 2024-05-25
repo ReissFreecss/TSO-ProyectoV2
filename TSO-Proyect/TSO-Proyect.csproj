@@ -55,6 +55,12 @@
     <Compile Include="Compra.Designer.cs">
       <DependentUpon>Compra.cs</DependentUpon>
     </Compile>
+    <Compile Include="Exito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exito.Designer.cs">
+      <DependentUpon>Exito.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +73,12 @@
     <Compile Include="InfoA.Designer.cs">
       <DependentUpon>InfoA.cs</DependentUpon>
     </Compile>
+    <Compile Include="Nosaldo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nosaldo.Designer.cs">
+      <DependentUpon>Nosaldo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Portada.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,11 +87,20 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Compra.resx">
+      <DependentUpon>Compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exito.resx">
+      <DependentUpon>Exito.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="InfoA.resx">
       <DependentUpon>InfoA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nosaldo.resx">
+      <DependentUpon>Nosaldo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Portada.resx">
       <DependentUpon>Portada.cs</DependentUpon>
@@ -113,6 +134,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Carnet de Identificación para Empresa Electrónica Moderno Azul %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Post de Instagram Horario fiestas patrias Ilustrado Azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Post de Instagram Horario fiestas patrias Ilustrado Azul %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Post de Instagram Horario fiestas patrias Ilustrado Azul %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Post de Instagram Horario fiestas patrias Ilustrado Azul %283%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

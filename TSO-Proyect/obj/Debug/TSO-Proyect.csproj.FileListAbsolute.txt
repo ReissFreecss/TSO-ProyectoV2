@@ -29,3 +29,6 @@ C:\Users\darkd\Source\Repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO-Proyect.csp
 C:\Users\darkd\Source\Repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO-Proyect.csproj.CopyComplete
 C:\Users\darkd\Source\Repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO-Proyect.exe
 C:\Users\darkd\Source\Repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO-Proyect.pdb
+C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO_Proyect.Compra.resources
+C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO_Proyect.Exito.resources
+C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO_Proyect.Nosaldo.resources

@@ -79,5 +79,45 @@ namespace TSO_Proyect.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Post_de_Instagram_Horario_fiestas_patrias_Ilustrado_Azul {
+            get {
+                object obj = ResourceManager.GetObject("Post de Instagram Horario fiestas patrias Ilustrado Azul", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Post_de_Instagram_Horario_fiestas_patrias_Ilustrado_Azul__1_ {
+            get {
+                object obj = ResourceManager.GetObject("Post de Instagram Horario fiestas patrias Ilustrado Azul (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Post_de_Instagram_Horario_fiestas_patrias_Ilustrado_Azul__2_ {
+            get {
+                object obj = ResourceManager.GetObject("Post de Instagram Horario fiestas patrias Ilustrado Azul (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Post_de_Instagram_Horario_fiestas_patrias_Ilustrado_Azul__3_ {
+            get {
+                object obj = ResourceManager.GetObject("Post de Instagram Horario fiestas patrias Ilustrado Azul (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

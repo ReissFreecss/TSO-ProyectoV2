@@ -10,16 +10,19 @@ using System.Windows.Forms;
 
 namespace TSO_Proyect
 {
-	public partial class Compra : Form
+	public partial class Nosaldo : Form
 	{
-		public Compra()
+		public Nosaldo()
 		{
 			InitializeComponent();
 		}
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			//Envía a pantalla en donde se muestra su saldo actual o en donde aparezca saldo insuficiente
+			Form Portada = new Portada();
+			Portada.Show();
+			this.Hide();
+			//Nota, al cerrar el programa al regresar a la portada, el programa no cierra :(
 		}
 	}
 }
