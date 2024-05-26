@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|c:\\users\\luism\\source\\repos\\tso-proyectov2\\tso-proyect\\infoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\infoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|c:\\users\\luism\\source\\repos\\tso-proyectov2\\tso-proyect\\exito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\exito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\tso-proyect\\nosaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\nosaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\tso-proyect\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\tso-proyect\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\tso-proyect\\portada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\portada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\tso-proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|c:\\users\\luism\\source\\repos\\tso-proyectov2\\tso-proyect\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\tso-proyect\\infoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\infoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|c:\\users\\luism\\source\\repos\\tso-proyectov2\\tso-proyect\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|c:\\users\\luism\\source\\repos\\tso-proyectov2\\tso-proyect\\nosaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\nosaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|c:\\users\\luism\\source\\repos\\tso-proyectov2\\tso-proyect\\exito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\exito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|c:\\users\\luism\\source\\repos\\tso-proyectov2\\tso-proyect\\exito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\tso-proyect\\exito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\exito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|c:\\users\\luism\\source\\repos\\tso-proyectov2\\tso-proyect\\nosaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\tso-proyect\\nosaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\nosaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\tso-proyect\\portada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|solutionrelative:tso-proyect\\portada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE8023A1-539C-4288-989E-B6F3032F4DC0}|TSO-Proyect\\TSO-Proyect.csproj|C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\tso-proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,42 +69,33 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Nosaldo.cs",
               "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Nosaldo.cs",
               "RelativeDocumentMoniker": "TSO-Proyect\\Nosaldo.cs",
               "ToolTip": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Nosaldo.cs",
               "RelativeToolTip": "TSO-Proyect\\Nosaldo.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAjwBUAAAADAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T02:12:32.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T02:12:32.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Exito.cs",
               "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Exito.cs",
               "RelativeDocumentMoniker": "TSO-Proyect\\Exito.cs",
               "ToolTip": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Exito.cs",
               "RelativeToolTip": "TSO-Proyect\\Exito.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAASwBgAAABTAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T02:07:11.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Exito.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Exito.cs",
               "RelativeDocumentMoniker": "TSO-Proyect\\Exito.cs",
@@ -116,56 +107,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Nosaldo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Nosaldo.cs",
               "RelativeDocumentMoniker": "TSO-Proyect\\Nosaldo.cs",
               "ToolTip": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Nosaldo.cs [Dise\u00F1o]",
               "RelativeToolTip": "TSO-Proyect\\Nosaldo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T01:54:20.937Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-25T01:54:20.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Compra.cs",
               "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Compra.cs",
               "RelativeDocumentMoniker": "TSO-Proyect\\Compra.cs",
               "ToolTip": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Compra.cs",
               "RelativeToolTip": "TSO-Proyect\\Compra.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBUAAABgAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T01:25:54.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T01:25:54.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Compra.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Compra.cs",
               "RelativeDocumentMoniker": "TSO-Proyect\\Compra.cs",
               "ToolTip": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Compra.cs [Dise\u00F1o]",
               "RelativeToolTip": "TSO-Proyect\\Compra.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T01:06:52.126Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-25T01:06:52.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "InfoA.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\InfoA.cs",
               "RelativeDocumentMoniker": "TSO-Proyect\\InfoA.cs",
               "ToolTip": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\InfoA.cs [Dise\u00F1o]",
               "RelativeToolTip": "TSO-Proyect\\InfoA.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:19:57.948Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-24T04:19:57.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Program.cs",
               "RelativeDocumentMoniker": "TSO-Proyect\\Program.cs",
@@ -173,20 +160,18 @@
               "RelativeToolTip": "TSO-Proyect\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:16:24.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T04:16:24.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Portada.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Portada.cs",
               "RelativeDocumentMoniker": "TSO-Proyect\\Portada.cs",
               "ToolTip": "C:\\Users\\luism\\source\\repos\\TSO-ProyectoV2\\TSO-Proyect\\Portada.cs [Dise\u00F1o]",
               "RelativeToolTip": "TSO-Proyect\\Portada.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:12:10.484Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-24T04:12:10.484Z"
             },
             {
               "$type": "Document",

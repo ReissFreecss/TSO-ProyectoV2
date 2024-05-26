@@ -73,9 +73,39 @@ namespace TSO_Proyect.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Blue_Dark_Professional_Geometric_Business_Project_Presentation___2_ {
+            get {
+                object obj = ResourceManager.GetObject("Blue Dark Professional Geometric Business Project Presentation  (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Carnet_de_Identificación_para_Empresa_Electrónica_Moderno_Azul__1_ {
             get {
                 object obj = ResourceManager.GetObject("Carnet de Identificación para Empresa Electrónica Moderno Azul (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Carnet_de_Identificación_para_Empresa_Electrónica_Moderno_Azul__3_ {
+            get {
+                object obj = ResourceManager.GetObject("Carnet de Identificación para Empresa Electrónica Moderno Azul (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Carnet_de_Identificación_para_Empresa_Electrónica_Moderno_Azul__4_ {
+            get {
+                object obj = ResourceManager.GetObject("Carnet de Identificación para Empresa Electrónica Moderno Azul (4)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

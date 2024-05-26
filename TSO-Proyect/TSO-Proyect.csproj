@@ -148,5 +148,14 @@
   <ItemGroup>
     <None Include="Resources\Post de Instagram Horario fiestas patrias Ilustrado Azul %283%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carnet de Identificación para Empresa Electrónica Moderno Azul %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carnet de Identificación para Empresa Electrónica Moderno Azul %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Dark Professional Geometric Business Project Presentation  %282%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
