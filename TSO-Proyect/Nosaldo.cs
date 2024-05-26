@@ -19,10 +19,10 @@ namespace TSO_Proyect
 
 		private void button1_Click(object sender, EventArgs e)
 		{
+
 			Form Portada = new Portada();
 			Portada.Show();
 			this.Hide();
-			//Nota, al cerrar el programa al regresar a la portada, el programa no cierra :(
 		}
 	}
 }

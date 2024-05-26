@@ -12,17 +12,25 @@ namespace TSO_Proyect
 {
 	public partial class Exito : Form
 	{
-		public Exito()
-		{
-			InitializeComponent();
-		}
+        private decimal nuevoSaldo;
 
-		private void button1_Click(object sender, EventArgs e)
+        public Exito(decimal nuevoSaldo)
+        {
+            InitializeComponent();
+            this.nuevoSaldo = nuevoSaldo;
+            DisplayNuevoSaldo();
+        }
+
+        private void DisplayNuevoSaldo()
+        {
+            lblSaldo.Text = nuevoSaldo.ToString("C");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
 		{
-			Form Portada = new Portada();
-			Portada.Show();
-			this.Hide();
-			//Nota, al cerrar el programa al regresar a la portada, el programa no cierra :(
-		}
+            this.Close();
+            Portada portadaForm = new Portada();
+            portadaForm.Show();
+        }
 	}
 }

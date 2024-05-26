@@ -16,7 +16,7 @@ namespace TSO_Proyect
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Exito());
+            Application.Run(new Portada());
         }
     }
 }

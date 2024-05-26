@@ -55,6 +55,7 @@
     <Compile Include="Compra.Designer.cs">
       <DependentUpon>Compra.cs</DependentUpon>
     </Compile>
+    <Compile Include="DatabaseConnection.cs" />
     <Compile Include="Exito.cs">
       <SubType>Form</SubType>
     </Compile>
