@@ -32,3 +32,6 @@ C:\Users\darkd\Source\Repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO-Proyect.pdb
 C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO_Proyect.Compra.resources
 C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO_Proyect.Exito.resources
 C:\Users\luism\source\repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO_Proyect.Nosaldo.resources
+C:\Users\darkd\Source\Repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO_Proyect.Compra.resources
+C:\Users\darkd\Source\Repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO_Proyect.Exito.resources
+C:\Users\darkd\Source\Repos\TSO-ProyectoV2\TSO-Proyect\obj\Debug\TSO_Proyect.Nosaldo.resources
